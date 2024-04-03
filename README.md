@@ -1,2 +1,11 @@
 #  Secure Communication: Using Diffie-Hellman Key Exchange and Digital Signature
- This project encompasses a protocol developed to facilitate secure bidirectional communication. The protocol ensures secure key exchange and communication using the Diffie-Hellman key exchange, SHA-256 hashing algorithm, and DSA digital signature methods.
+Proje Adı: SecureComm
+Proje Açıklaması:
+SecureComm, güvenli iletişim için geliştirilmiş bir protokol ve örnek bir uygulamayı içerir. Protokol, Diffie-Hellman anahtar değişimi, SHA-256 özetleme ve DSA dijital imzalama algoritmalarını kullanarak güvenli bir anahtar paylaşımı ve iletişim sağlar. Bu proje, güvenli iletişim uygulamaları geliştirmek isteyenler için bir başlangıç noktası sunar.
+
+Kullanım Kılavuzu:
+Proje klasörünü bilgisayarınıza indirin veya klonlayın.
+src klasöründe bulunan AnaProgram.java dosyasını açın.
+main() fonksiyonundaki örnek kodu inceleyin ve gerekirse değiştirin.
+Proje klasöründe terminal veya komut istemcisini açın.
+python secure_comm.py komutunu kullanarak örnek uygulamayı çalıştırın.
